@@ -10,7 +10,7 @@ const Country = (props) => {
         border: "2px solid black"
     }
     const countryStyle = {
-        border: "2px solid black",
+        border: "2px solid grey",
         borderRadius: "15px",
         boxShadow: "10px 10px 2px #ccc",
         margin: "20px",
